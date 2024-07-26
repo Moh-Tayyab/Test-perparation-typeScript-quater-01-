@@ -1,5 +1,5 @@
 import chalkAnimation from "chalk-animation";
-import { resolve } from "path";
+
 
 
 //call back function
